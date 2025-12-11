@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cecba3ca-01a2-4ad2-9644-bb4c170d9850" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/espe/datos/repository/EstudianteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/espe/datos/repository/EstudianteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/espe/logica_negocio/EstudianteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/espe/logica_negocio/EstudianteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/espe/presentacion/EstudianteUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/espe/presentacion/EstudianteUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/espe/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/espe/presentacion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47979cbb-2b41-4a43-a93d-ef805b46e179.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47979cbb-2b41-4a43-a93d-ef805b46e179/storage_v2/_src_/database/estudiante.0u2S6w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47979cbb-2b41-4a43-a93d-ef805b46e179/storage_v2/_src_/database/estudiante.0u2S6w/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47979cbb-2b41-4a43-a93d-ef805b46e179/storage_v2/_src_/database/estudiante.0u2S6w/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47979cbb-2b41-4a43-a93d-ef805b46e179/storage_v2/_src_/database/estudiante.0u2S6w/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65446a79-0303-4f8c-ade3-2a88bc0508e9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65446a79-0303-4f8c-ade3-2a88bc0508e9/storage_v2/_src_/database/estudiante.0u2S6w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65446a79-0303-4f8c-ade3-2a88bc0508e9/storage_v2/_src_/database/estudiante.0u2S6w/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65446a79-0303-4f8c-ade3-2a88bc0508e9/storage_v2/_src_/database/estudiante.0u2S6w/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65446a79-0303-4f8c-ade3-2a88bc0508e9/storage_v2/_src_/database/estudiante.0u2S6w/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a0c5cca7-774f-4fd6-aab6-254aa46d9ff4.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +89,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JUAN/Desktop/A&D/27837_G3_ADS/Unidad 2/Singleton crudestudiante",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -158,8 +166,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
@@ -174,6 +182,7 @@
       <workItem from="1763586287887" duration="257000" />
       <workItem from="1763586616967" duration="6386000" />
       <workItem from="1763613794220" duration="5146000" />
+      <workItem from="1764074478488" duration="122000" />
     </task>
     <servers />
   </component>
