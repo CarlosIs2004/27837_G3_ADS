@@ -1,0 +1,5 @@
+# 📌 Versiones y Variantes
+
+| **Código del ECS** | **Descripción del ECS**              | **Versión/Variante** | **Fecha de creación** | **Autor(es)**                                   | **Localización**                                | **Observaciones**                                             | **Variante de requisitos de usuario** | **Variante de plataforma** |
+| ------------------ | ------------------------------------ | -------------------- | --------------------- | ----------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- | -------------------------- |
+| ARQ                | Arquitectura 3 capas para el sistema | V1.0.0               | 18/07/2025            | Ariel Guevara, Gabriel Reinoso, Micaela Salcedo | 27837_G3_ADS\DISEÑOS\1.2 Diseño de Arquitectura | Primera versión de la arquitectura del proyecto para MinGO | Español                               | Windows 11                 |
