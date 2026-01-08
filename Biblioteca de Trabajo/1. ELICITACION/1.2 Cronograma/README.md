@@ -1,6 +1,6 @@
 # Cronograma de Actividades (PDP)
 
-Este directorio contiene los documentos que forman parte del Elemento de Configuración del Software (ECS) relacionado con el cronograma de actividades del proyecto **PintAuto Inventory Management**.
+Este directorio contiene los documentos que forman parte del Elemento de Configuración del Software (ECS) relacionado con el cronograma de actividades del proyecto **MinGO**.
 
 ## Información del ECS
 
@@ -9,10 +9,10 @@ Este directorio contiene los documentos que forman parte del Elemento de Configu
 - **Autor:** David Cepeda, Juan Granda, Carlos Ñato  
 - **Proyecto:** MinGO 
 - **Línea base:** PDP - Plan de Desarrollo del Proyecto  
-- **Localización:** D:\22426_G2_ADS\Unidad 1\PREGAME\1. GESTION\1.1 Cronograma de actividades  
+- **Localización:** D:\27837_G3_ADS\Unidad 1\PREGAME\1. GESTION\1.1 Cronograma de actividades  
 - **Tipo de ECS:** Documento (PDF)  
 - **Fecha de creación:** 08/05/2025  
-- **ID del proyecto:** 22426_G2_ADS  
+- **ID del proyecto:** 27837_G3_ADS  
 
 # Historial de Versiones del Cronograma
 

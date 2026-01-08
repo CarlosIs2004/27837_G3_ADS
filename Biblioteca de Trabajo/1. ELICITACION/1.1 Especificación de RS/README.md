@@ -1,6 +1,6 @@
 # Especificación de Requisitos de Software (SRS)
 
-Este directorio contiene los documentos que forman parte del Elemento de Configuración del Software (ECS) relacionado con la especificación de requisitos del proyecto **PintAuto Inventory Management**.
+Este directorio contiene los documentos que forman parte del Elemento de Configuración del Software (ECS) relacionado con la especificación de requisitos del proyecto **MinGO**.
 
 ## Información del ECS
 
