@@ -6,7 +6,7 @@ Este directorio contiene los documentos que forman parte del Elemento de Configu
 
 - **Código del ECS:** IREB
 - **Nombre del ECS:** Matriz de Requisitos IREB
-- **Autor:** Ariel Guevara, Gabriel Reinoso, Micaela Salcedo
+- **Autor:** Juan Granda, Carlos Ñato, David Cepeda
 - **Proyecto:** MinGO
 - **Línea base:** LBR - Línea Base Requisitos
 - **Localización:** D:\27837_G3_ADS\Unidad 1\PREGAME\1. ELICITACION\1.2 Matriz IREB
