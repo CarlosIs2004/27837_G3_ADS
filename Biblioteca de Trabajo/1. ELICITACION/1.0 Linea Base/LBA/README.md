@@ -1,6 +1,6 @@
 # Línea Base LBA - Análisis
 
-Esta carpeta contiene los documentos y diagramas relacionados con la fase de análisis del proyecto PintAuto.
+Esta carpeta contiene los documentos y diagramas relacionados con la fase de análisis del proyecto MinGO.
 
 ## Contenido principal:
 - Diagramas de actividades
