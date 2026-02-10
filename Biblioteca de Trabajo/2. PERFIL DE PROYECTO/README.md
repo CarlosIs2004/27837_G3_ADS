@@ -25,7 +25,8 @@ El Perfil de Proyecto es un documento que define las características generales 
 | **Versión** | **Fecha**   | **Descripción del Cambio**                     | **Autor**   |
 | ----------- | ----------- | ---------------------------------------------- | ----------- |
 | V1.0        | 10/12/2025  | Versión inicial del Perfil de Proyecto         | Equipo G3   |
-| V2.0        | 28/01/2026  | Conclusiones acerca del PGS                    | Equipo G3   |
+| V2.0        | 11/12/2025  | Versión intermedia del Perfil de Proyecto      | Equipo G3   |
+| V3.0        | 28/01/2026  | Conclusiones acerca del PGS                    | Equipo G3   |
 
 ## Archivos
 
@@ -33,6 +34,7 @@ El Perfil de Proyecto es un documento que define las características generales 
 | --------------------------------------- | ----------- | ---------------------------------------- |
 | Perfil_Proyecto_v.1.0.1.pdf   | V1.0        | Versión inicial del Perfil de Proyecto   |
 | Perfil_Proyecto_v.1.0.2.pdf   | V2.0        | Versión actual del Perfil de Proyecto   |
+| Perfil_Proyecto_v.1.0.3.pdf   | V3.0        | Versión actual del Perfil de Proyecto   |
 
 ## Control de Configuración
 - **Verificado por:** Carlos Ñato (Gestor de Configuración)
