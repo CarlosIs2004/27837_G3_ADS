@@ -19,6 +19,10 @@ Este directorio contiene los documentos que forman parte del Elemento de Configu
 | Versión               | Fecha       | Responsable       | Aprobado por                         |
 |----------------------|-------------|-------------------|--------------------------------------|
 | `Cronograma_V1.0.0.pdf` | 08/12/2025  | David Cepeda     | Juan Granda y Carlos Ñato    |
-
+| `Cronograma_V2.0.0.xlsx` | 08/01/2026  | David Cepeda     | Juan Granda y Carlos Ñato    |
+| `Cronograma_Sprint0_v.1.0.0.xlsx` | 08/01/2026  | David Cepeda     | Juan Granda y Carlos Ñato    |
+| `Cronograma_Sprint1_v.1.0.0.xlsx` | 08/01/2026  | David Cepeda     | Juan Granda y Carlos Ñato    |
+| `Cronograma_Sprint2_v.1.0.0.xlsx` | 08/01/2026  | David Cepeda     | Juan Granda y Carlos Ñato    |
+| `Cronograma_Sprint3_v.1.0.0.xlsx` | 08/01/2026  | David Cepeda     | Juan Granda y Carlos Ñato    |
 
 Estas versiones reflejan la evolución del cronograma conforme al avance del proyecto. Cada versión ha sido validada y aprobada como parte de la gestión del proyecto.
